@@ -1,2 +1,2 @@
 # Dyson-Air-Sphere-Webseite
-Response Produktwebseite für das Konzept "Dyson-Air-Sphere" 
+Responsive Produktwebseite für das Konzept "Dyson-Air-Sphere" 
